@@ -1,0 +1,30 @@
+{
+  "name": "cipher-cli",
+  "version": "0.0.1",
+  "description": "simple CLI cipher tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9pasha/cipher-cli.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "cli",
+    "tool",
+    "cipher"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9pasha/cipher-cli/issues"
+  },
+  "homepage": "https://github.com/9pasha/cipher-cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}

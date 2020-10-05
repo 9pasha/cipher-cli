@@ -119,9 +119,3 @@ dist
 
 .gitignore
 .idea/
-index.js
-input.txt
-modules/
-output.txt
-package-lock.json
-package.json
